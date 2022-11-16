@@ -1,0 +1,33 @@
+Here the goal is to translate each sentence (taken from Shakespeare's plays) written in Elizabethan (Shakespearean) English to modern English, without changing the semantic content.
+
+The following text is written in Elizabethan English: "what hast thou there?"
+Q: Rewrite the text in modern English.
+A: what have you got there?
+
+The following text is written in Elizabethan English: "what say'st thou, my dear nurse?"
+Q: Rewrite the text in modern English.
+A: what did you say, my dear nurse?
+
+The following text is written in Elizabethan English: "and how doth she?"
+Q: Rewrite the text in modern English.
+A: and how is she doing?
+
+The following text is written in Elizabethan English: "talk not to me, for i'll not speak a word."
+Q: Rewrite the text in modern English.
+A: don't talk to me, because I won't answer you.
+
+The following text is written in Elizabethan English: "pardon, i beseech you!"
+Q: Rewrite the text in modern English.
+A: forgive me, i beg you!
+
+The following text is written in Elizabethan English: "all men call thee fickle."
+Q: Rewrite the text in modern English.
+A: all men say you are changeable.
+
+The following text is written in Elizabethan English: "and sayest thou yet that exile is not death?"
+Q: Rewrite the text in modern English.
+A: and you still say that exile is not death!
+
+The following text is written in Elizabethan English: "[[QUESTION]]"
+Q: Rewrite the text in modern English.
+A:

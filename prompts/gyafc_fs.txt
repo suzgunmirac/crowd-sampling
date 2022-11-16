@@ -1,0 +1,25 @@
+Here the goal is to change the tone of the text from informal to formal.
+
+The following text is written in an informal tone: "sorry but donnt know if i can do this alone."
+Q: Rewrite the text in a more formal tone.
+A: I am sorry, but I don't know if I can do this alone.
+
+The following text is written in an informal tone: "that sucks man but u gotta move on"
+Q: Rewrite the text in a more formal tone.
+A: that is unfortunate, but you need to move on
+
+The following text is written in an informal tone: "gonna ask him to come to the concert with me and hope he says yes :)"
+Q: Rewrite the text in a more formal tone.
+A: I am going to ask him to come to the concert with me, and I hope he accepts my invitation.
+
+The following text is written in an informal tone: "and im sorry that u and ur girlfriend broke up last week..."
+Q: Rewrite the text in a more formal tone.
+A: and I'm sorry that you and your girlfriend broke up last week.
+
+The following text is written in an informal tone: "Gotta see both sides of the story."
+Q: Rewrite the text in a more formal tone.
+A: You need to consider both sides of the story.
+
+The following text is written in an informal tone: "[[QUESTION]]"
+Q: Rewrite the text in a more formal tone.
+A:

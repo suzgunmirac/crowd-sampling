@@ -1,0 +1,13 @@
+Given a  sentence and a target tense,  output the same sentence in that particular tense while maintaining lexical and logical semantics.
+
+Q: She had applied for the job. Change tense to PRESENT PERFECT:
+A: She has applied for the job.
+
+Q: I had received his reply. Change tense to PRESENT PERFECT:
+A: I have received his reply.
+
+Q: They had invited their friends to their party. Change tense to PRESENT PERFECT:
+A: They have invited their friends to their party.
+
+Q: [[QUESTION]]
+A:

@@ -1,0 +1,25 @@
+In this data-to-text task, the goal is to convert a set of two-to-nine key-value attribute pairs in the restaurant domain to a corresponding simple English-language text.
+ 
+Q: name[The Eagle], eatType[coffee shop], food[English], priceRange[high], customer rating[average], area[riverside], familyFriendly[no], near[Burger King]
+A: The Eagle is near Burger King in riverside. It serves expensive English food in a coffee shop setting. It's not child friendly, but has average ratings.
+ 
+Q: name[Clowns], eatType[coffee shop], food[English], customer rating[5 out of 5], area[riverside], near[Clare Hall]
+A: Clowns is a coffee shop that serves English food and is near Clare Hall. It is located riverside and has a 5 out of 5 customer rating.
+ 
+Q: name[The Golden Palace], priceRange[more than £30], customer rating[high], area[city centre]
+A: The Golden Palace has a high customer rating, with meals costing more than £30. It is located in the city center.
+ 
+Q: name[Wildwood], eatType[coffee shop], food[English], customer rating[1 out of 5], near[Ranch]
+A: Wildwood, English coffee shop, is situated near Ranch and has moderate pricing. It received 1 out of 5 star rating.
+ 
+Q: name[Taste of Cambridge], eatType[coffee shop], food[English], area[city center], familyFriendly[yes], near[Crowne Plaza Hotel]
+A: Taste of Cambridge is a family-friendly coffee shop that serves English cuisine. It is located in the city center near Crowne Plaza Hotel.
+ 
+Q: name[Cocum], eatType[coffee shop], food[English], priceRange[moderate], customer rating[3 out of 5], familyFriendly[yes]
+A: Cocum is a coffee shop that serves English food at a moderate price. It is kids friendly and has a rating of 3 out of 5.
+ 
+Q: name[The Punter], eatType[restaurant], priceRange[more than £30], customer rating[3 out of 5], area[riverside], familyFriendly[yes]
+A: The Punter is a high-priced kids-friendly restaurant in riverside, rated 3 out of 5.
+ 
+Q: [[QUESTION]]
+A:

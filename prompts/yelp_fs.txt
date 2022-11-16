@@ -1,0 +1,21 @@
+Here the goal is to transform the style of a text from one style to another, without changing its main semantic content.
+
+The following text has a negative sentiment: "this place is awful!"
+Q: Rewrite the text so that it sounds positive.
+A: this place is amazing!
+
+The following text has a positive sentiment: "definitely will buy another pair of socks from this store--they have the best socks ever"
+Q: Rewrite the text so that it sounds negative.
+A: definitely will not buy another pair of socks from this store--they have the worst socks ever
+
+The following text has a negative sentiment: "my wife and i were disappointed by the quality of the service--also, the food was pretty tasteless."
+Q: Rewrite the text so that it sounds positive.
+A: my wife and i were impressed by the quality of the service--also, the food was pretty delicious.
+
+The following text has a positive sentiment: "i loved their black tea and hot chocolate selections!"
+Q: Rewrite the text so that it sounds negative.
+A: i hated their black tea and hot chocolate selections!
+
+The following text has a positive sentiment: "[[QUESTION]]"
+Q: Rewrite the text so that it sounds negative.
+A:
